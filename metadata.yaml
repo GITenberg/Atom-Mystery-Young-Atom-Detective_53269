@@ -1,0 +1,35 @@
+_repo: Atom-Mystery-Young-Atom-Detective_53269
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lewis, G. Dean
+    gutenberg_agent_id: '47295'
+    url: http://www.gutenberg.org/2009/agents/47295
+creator:
+  author:
+    agent_name: Coombs, Charles Ira
+    aliases:
+    - Coombs, Charles I. (Charles Ira)
+    - Coombs, Chick
+    - Coombs, Chic
+    birthdate: 1914
+    deathdate: 1994
+    gutenberg_agent_id: '47294'
+    url: http://www.gutenberg.org/2009/agents/47294
+description: ''
+gutenberg_issued: '2016-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Nuclear physics -- Juvenile fiction'
+- !lcsh 'Scientists -- Juvenile fiction'
+- GITenberg
+title: Atom Mystery [Young Atom Detective]
+url: http://www.gutenberg.org/ebooks/53269
